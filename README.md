@@ -1,1 +1,1 @@
-dUpdated README file for automationddc testccd
+dUpdated README file for automationddc testc
